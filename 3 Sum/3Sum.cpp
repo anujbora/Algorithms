@@ -1,10 +1,11 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+using namespace std;
 
-vector<vector<int>> threeSum(vector<int>& nums) 
+vector<vector<int> > threeSum(vector<int>& nums) 
 {
-    vector<vector<int>> result;
+    vector<vector<int> > result;
     
     sort(nums.begin(), nums.end());
     
@@ -21,17 +22,18 @@ vector<vector<int>> threeSum(vector<int>& nums)
         int front = i+1;
         int back = nums.size()-1;
         
-        while(front < back)
+        while (front < back)
         {
             int sum = nums[front] + nums[back];
-            if(sum < target)
+            if (sum < target)
             {
                 front++;
             }
-            else if(sum > target)
+            else if (sum > target)
             {
                 back--;
             }
+            // Triplet Found
             else
             {
                 vector<int> triplet (3,0);
@@ -51,7 +53,7 @@ vector<vector<int>> threeSum(vector<int>& nums)
             }
         }
         // Skip the duplicate elements
-        while(i+1 < nums.size() && nums[i+1] ==nums[i])
+        while(i+1 < nums.size() && nums[i+1] == nums[i])
         {
             i++;
         }
