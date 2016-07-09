@@ -1,4 +1,4 @@
-```html
+<html>
 <h1>Algorithms</h1>
 
 <h3> Solutions to Popular Algorithmic Problems </h3>
@@ -13,4 +13,4 @@
         </div>
     </div>
 </pre>
-```
+</html>
