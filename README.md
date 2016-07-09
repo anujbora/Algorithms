@@ -8,8 +8,9 @@
         <div>
             <h2>INDEX :</h2>
         </div>
-        <div class="wrap">
+        <div>
             <li> <a href="https://github.com/anujbora/Algorithms/tree/master/3Sum">3 Sum</a> (Added July 8th 2016) </li>
+            <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Column-wise%20Traversal">Column-wise(vertical) traversal of Binary Tree</a> (Added July 9th 2016) </li>
         </div>
     </div>
 </pre>
