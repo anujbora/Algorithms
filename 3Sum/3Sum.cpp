@@ -41,21 +41,7 @@ vector<vector<int> > threeSum(vector<int>& nums)
                 triplet[1] = nums[front];
                 triplet[2] = nums[back];
                 result.push_back(triplet);
-                // Skip the duplicate elements
-                while(front < back && nums[front] == triplet[1])
-                {
-                    front++;
-                }
-                while(front < back && nums[front] == triplet[2])
-                {
-                    back--;
-                }
             }
-        }
-        // Skip the duplicate elements
-        while(i+1 < nums.size() && nums[i+1] == nums[i])
-        {
-            i++;
         }
     }
     return result;
