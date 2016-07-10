@@ -28,7 +28,7 @@ int WordLadder(vector<string>& dictionary, string source, string target)
 {
     if(source == target)
     {
-        return 0;
+        return 1;
     }
     queue<string> q;
     q.push(source);
