@@ -11,7 +11,6 @@
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Matrix%20Sum"> Matrix Sum</a> (Added July 10th 2016) </li>
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Matrix%20Sum"> Simplify Path</a> (Added July 11th 2016) </li>
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Longest%20Substring without%20Repeating%20Characters"> Longest Substring without Repeating Characters</a> (Added July 11th 2016) </li>
-        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Longest%20Substring without%20Repeating%20Characters"> Longest Substring without Repeating Characters</a> (Added July 11th 2016) </li>
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Product%20Subarray"> Maximum Product Subarray</a> (Added July 11th 2016) </li>
     </div>
 </html>
