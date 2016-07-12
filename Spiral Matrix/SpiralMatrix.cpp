@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-ListNode* SpiralMatrix(vector<vector<int>>& matrix) 
+vector<int> SpiralMatrix(vector<vector<int>>& matrix) 
 {
     vector<int> result;
 
@@ -23,7 +23,6 @@ ListNode* SpiralMatrix(vector<vector<int>>& matrix)
         for(int i = startCol; i <= totalCols; i++)
         {
             result.push_back(matrix[startRow][i]);
-            cout << "in step 1 : " << matrix[startRow][i] << "\n";
         }
         startRow++;
 
@@ -31,7 +30,6 @@ ListNode* SpiralMatrix(vector<vector<int>>& matrix)
         for(int i = startRow; i <= totalRows; i++)
         {
             result.push_back(matrix[i][totalCols]);
-            cout << "in step 2 : " << matrix[i][totalCols] << "\n";
         }
         totalCols--;
 
@@ -41,7 +39,6 @@ ListNode* SpiralMatrix(vector<vector<int>>& matrix)
             for(int i = totalCols; i>=startCol; i--)
             {
                 result.push_back(matrix[totalRows][i]);
-                cout << "in step 3 : " << matrix[totalRows][i] << "\n";
             }
             totalRows--;
         }
@@ -52,7 +49,6 @@ ListNode* SpiralMatrix(vector<vector<int>>& matrix)
             for(int i = totalRows; i>=startRow; i--)
             {
                 result.push_back(matrix[i][startCol]);
-                cout << "in step 4 : " << matrix[i][startCol] << "\n";
             }  
             startCol++; 
         }
