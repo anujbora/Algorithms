@@ -17,5 +17,8 @@
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reorder%20List"> Reorder List</a> (Added July 12th 2016) </li>
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Unique%20Paths%20with%20Obstacles"> Unique Paths with Obstacles</a> (Added July 13th 2016) </li>
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Square"> Maximum Square</a> (Added July 13th 2016) </li>
+        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Remove%20Duplicates%20from%20Sorted%20Array"> Remove Duplicates from Sorted Array</a> (Added July 14th 2016) </li>
+        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Remove%20Duplicates%20from%20Sorted%20Array%20II"> Remove Duplicates from Sorted Array II</a> (Added July 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Increasing%20Triplet"> Increasing Triplet</a> (Added July 14th 2016) </li>
     </div>
 </html>
