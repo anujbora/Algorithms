@@ -20,6 +20,6 @@
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Remove%20Duplicates%20from%20Sorted%20Array"> Remove Duplicates from Sorted Array</a> (Added July 14th 2016) </li>
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Remove%20Duplicates%20from%20Sorted%20Array%20II"> Remove Duplicates from Sorted Array II</a> (Added July 14th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Increasing%20Triplet"> Increasing Triplet</a> (Added July 14th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Buy%20Sell%Stock"> Buy Sell Stock</a> (Added July 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Buy%20Sell%20Stock/Stock.cpp"> Buy Sell Stock</a> (Added July 14th 2016) </li>
     </div>
 </html>

@@ -5,7 +5,7 @@ using namespace std;
 
 int MaximumStockProfit(vector<int>& prices) 
 {
-    if(nums.size() == 0)
+    if(prices.size() == 0)
     {
         return 0;
     }
@@ -22,7 +22,9 @@ int MaximumStockProfit(vector<int>& prices)
             buy = i;
         }
 
-        currSum = prices[i] - prices[buy];
-        maxSum = max(currSum, maxSum);
+        curSum = prices[i] - prices[buy];
+        maxSum = max(curSum, maxSum);
     }
+
+    return maxSum;
 }
