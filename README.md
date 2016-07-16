@@ -22,4 +22,7 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Increasing%20Triplet"> Increasing Triplet</a> (Added July 14th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Buy%20Sell%20Stock/Stock.cpp"> Buy Sell Stock</a> (Added July 14th 2016) </li>
     </div>
+    <div id="counter" align="right">  
+        Count = 16 &nbsp;&nbsp;&nbsp;
+    </div>
 </html>
