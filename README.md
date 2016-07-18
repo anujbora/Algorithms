@@ -21,8 +21,14 @@
         <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Remove%20Duplicates%20from%20Sorted%20Array%20II"> Remove Duplicates from Sorted Array II</a> (Added July 14th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Increasing%20Triplet"> Increasing Triplet</a> (Added July 14th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Buy%20Sell%20Stock/Stock.cpp"> Buy Sell Stock</a> (Added July 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Sort%20Colors/"> Sort Colors</a> (Added July 16th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Buy%20Sell%20Stock/"> Buy Sell Stock</a> (Added July 16th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Encode%20and%20Decode%20Strings/"> Encode and Decode Strings</a> (Added July 17th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Missing%20Ranges/"> Missing Ranges</a> (Added July 17th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Find%20the%20Celebrity/"> Find the Celebrity</a> (Added July 17th 2016) </li>
+
     </div>
     <div id="counter" align="right">  
-        Count = 16 &nbsp;&nbsp;&nbsp;
+        Count = 21 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
