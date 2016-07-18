@@ -59,7 +59,7 @@ int MaximumStockProfit(vector<int>& prices)
     {
         int temp_sell = sell;
         sell = max(buy + prices[i], sell);
-        buy = max(buy, rest = prices[i]);
+        buy = max(buy, rest - prices[i]);
         rest = max(rest, temp_sell);
     }
 

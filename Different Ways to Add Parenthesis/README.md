@@ -1,30 +1,15 @@
-Design an algorithm to encode a list of strings to a string. The encoded string is then sent over the network and is decoded back to the original list of strings.
+Given a string of numbers and operators, return all possible results from computing all the different possible ways to group numbers and operators. The valid operators are +, - and *.
 
-Machine 1 (sender) has the function:
+Example : 
 
-string encode(vector<string> strs) 
-{
-  // ... your code
-  return encoded_string;
-}
+'''
+Input: "2-1-1".
 
-Machine 2 (receiver) has the function:
+Different ways to add Parenthesis :
+	((2-1)-1) = 0
+	(2-(1-1)) = 2
 
-vector<string> decode(string s) 
-{
-  //... your code
-  return strs;
-} 
+Output: [0, 2]
+'''
 
-So Machine 1 does:
-
-string encoded_string = encode(strs);
-
-and Machine 2 does:
-
-vector<string> strs2 = decode(encoded_string);
-strs2 in Machine 2 should be the same as strs in Machine 1.
-
-Implement the encode and decode methods.
-
-LeetCode : https://leetcode.com/problems/encode-and-decode-strings/
+LeetCode : https://leetcode.com/problems/different-ways-to-add-parentheses/

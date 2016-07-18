@@ -26,7 +26,8 @@
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Encode%20and%20Decode%20Strings/"> Encode and Decode Strings</a> (Added July 17th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Missing%20Ranges/"> Missing Ranges</a> (Added July 17th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Find%20the%20Celebrity/"> Find the Celebrity</a> (Added July 17th 2016) </li>
-
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Buy%20Sell%20Stock%20with%20Cooldown"> Buy Sell Stock with Cooldown</a> (Added July 18th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Different%20Ways%20to%20Add%20Parenthesis"> Different Ways to Add Parenthesis</a> (Added July 18th 2016) </li>  
     </div>
     <div id="counter" align="right">  
         Count = 21 &nbsp;&nbsp;&nbsp;
