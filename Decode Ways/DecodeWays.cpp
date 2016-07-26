@@ -19,7 +19,7 @@ int DecodeWays(string& nums)
             r1 = 0;
         }
         
-        if ((nums[i-1] == '1' || nums[i-1] == '2') && nums[i] < '6')
+        if ((nums[i-1] == '1' || nums[i-1] == '2') && nums[i] <= '6')
         {
             int temp = r1;
             r1 = r1 + r2;
