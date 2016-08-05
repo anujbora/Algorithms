@@ -41,9 +41,20 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Multiply%20Strings"> Multiply Strings</a> (Added July 24th 2016) </li> 
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Clone%20Graph"> Clone Graph</a> (Added July 24th 2016) </li> 
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Decode%20Ways"> Decode Ways</a> (Added July 25th 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Size%20Subarray%20Sum%20Equals%20k"> Maximum Size Subarray Sum Equals K</a> (Added July 26th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Size%20Subarray%20Sum%20Equals%20k"> Maximum Size Subarray Sum Equals K</a> (Added July 26th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Divide%20Two%20Integers"> Divide Two Integers</a> (Added July 28th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Kth%20Largest%20Element%20in%20an%20Array"> Kth Largest Element in an Array</a> (Added July 28th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Meeting%20Rooms"> Meeting Rooms</a> (Added July 29th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Meeting%20Rooms%20II"> Meeting Rooms II</a> (Added July 30th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Search%20Tree%20Iterator"> Binary Search Tree Iterator</a> (Added July 30th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Flatten%20Nested%20List%20Iterator"> Flatten Nested List Iterator</a> (Added July 31st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Evaluate%20Reverse%20Polish%20Notation"> Evaluate Reverse Polish Notation</a> (Added July 31st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Peeking%20Iterator"> Peeking Iterator</a> (Added August 1st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/3Sum%20Closest"> 3 Sum Closest</a> (Added August 2nd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Level%20Order%20Traversal"> Binary Tree Level Order Traversal</a> (Added August 3rd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Merge%20Sorted%20Array"> Merge Sorted Array</a> (Added August 4th 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 38 &nbsp;&nbsp;&nbsp;
+        Count = 48 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
