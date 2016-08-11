@@ -54,7 +54,7 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Level%20Order%20Traversal"> Binary Tree Level Order Traversal</a> (Added August 3rd 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Merge%20Sorted%20Array"> Merge Sorted Array</a> (Added August 4th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Implement%20Trie"> </a> Implement Trie(Added August 8th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Implement%20Trie"> </a> Implement Trie(Added August 8th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Combination%20Sum"> </a> Combination Sum(Added August 11th 2016) </li>
     </div>
     <div id="counter" align="right">  
         Count = 50 &nbsp;&nbsp;&nbsp;
