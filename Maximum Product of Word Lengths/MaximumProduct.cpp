@@ -24,8 +24,7 @@ int MaximumProduct(vector<string>& words)
     
     for (string s : words)
     {
-        hash.push_back(make_pair(s.size(), generateMask(s)));
-    
+        hash.push_back(make_pair(s.size(), generateMask(s)));  
     }
     
     int result = 0;
