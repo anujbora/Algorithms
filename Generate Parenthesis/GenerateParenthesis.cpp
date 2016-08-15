@@ -7,26 +7,26 @@ using namespace std;
  *  Time Complexity = O(2^n)
  */
 
-void helper(vector<string>& result, string s, int left, int right)
+void helper(vector<string>& result, string s, int n, int open, int close)
 {
-    if (left == 0 && right == 0)
+    if (open == n && close == n)
     {
         result.push_back(s);
         return;
     }
-    if (left > 0)
+    if (open < n)
     {
-        helper(result, s + "(", left - 1, right + 1);
+        helper(result, s + "(", n, open + 1, close);
     }
-    if (right > 0)
+    if (close < open)
     {
-        helper(result, s + ")", left, right - 1);
+        helper(result, s + ")", n, open, close + 1);
     }
 }
 
 vector<string> generateParenthesis(int n) 
 {
     vector<string> result;
-    helper(result, "", n, 0);
+    helper(result, "", n, 0, 0);
     return result;
 }
