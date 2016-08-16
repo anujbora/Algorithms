@@ -57,8 +57,15 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Combination%20Sum"> Combination Sum</a> (Added August 11th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Add%20and%20Search%20Word%20Datastructure"> Add and Search Word Datastructure</a> (Added August 12th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Generate%20Parenthesis">Generate Parenthesis</a> (Added August 12th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Permutations">Permutations</a> (Added August 13th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Permutations%20II">Permutations II</a> (Added August 13th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Combinations">COmbinations</a> (Added August 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reconstruct%20Itinerary">Reconstruct Itinerary</a> (Added August 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Product%20of%20Array%20except%20Self">Product of Array except Self</a> (Added August 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20kth%20Smallest%20Element">Binary Tree kth Smallest Element</a> (Added August 15th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Product%20of%20Word%20Lengths">Maximum Product of Word Lengths</a> (Added August 15th 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 52 &nbsp;&nbsp;&nbsp;
+        Count = 58 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
