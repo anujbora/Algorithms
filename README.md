@@ -64,8 +64,9 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Product%20of%20Array%20except%20Self">Product of Array except Self</a> (Added August 14th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20kth%20Smallest%20Element">Binary Tree kth Smallest Element</a> (Added August 15th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Product%20of%20Word%20Lengths">Maximum Product of Word Lengths</a> (Added August 15th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Minimum%20in%20Rotated%20Sorted%20Array">Minimum in Rotated Sorted Array</a> (Added August 17th 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 58 &nbsp;&nbsp;&nbsp;
+        Count = 59 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
