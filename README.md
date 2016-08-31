@@ -69,8 +69,11 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Search%20a%202D%20Matrix">Search a 2D Matrix</a> (Added August 23rd 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Find%20Peak%20Element">Find Peak Element</a> (Added August 24th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree">Convert Sorted List to Binary Search Tree</a> (Added August 25th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Search%20in%20Rotated%20Sorted%20Array">Search in Rotated Sorted Array</a> (Added August 27th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II">Search in Rotated Sorted Array II</a> (Added August 27th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reverse%20Words%20in%20a%20String">Reverse Words in a String</a> (Added August 31st 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 63 &nbsp;&nbsp;&nbsp;
+        Count = 66 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
