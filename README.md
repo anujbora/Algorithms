@@ -72,8 +72,13 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Search%20in%20Rotated%20Sorted%20Array">Search in Rotated Sorted Array</a> (Added August 27th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II">Search in Rotated Sorted Array II</a> (Added August 27th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reverse%20Words%20in%20a%20String">Reverse Words in a String</a> (Added August 31st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Next%20Permutation">Next Permutation</a> (Added September 12th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Shuffle%20an%20Array">Shuffle an Array</a> (Added September 12th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Strobogrammatic%20Number">Strobogrammatic Number</a> (Added September 13th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Length%20of%20Last%20Word">Length of Last Word</a> (Added September 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Two%20Sum">Two Sum</a> (Added September 15th 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 66 &nbsp;&nbsp;&nbsp;
+        Count = 71 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
