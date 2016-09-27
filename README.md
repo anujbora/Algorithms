@@ -77,8 +77,16 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Strobogrammatic%20Number">Strobogrammatic Number</a> (Added September 13th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Length%20of%20Last%20Word">Length of Last Word</a> (Added September 14th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Two%20Sum">Two Sum</a> (Added September 15th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Top%20K%20Frequent%20Elements">Top K Frequent Elements</a> (Added September 16th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Add%20Two%20Numbers">Add Two Numbers</a> (Added September 17th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Unique%20Binary%20Search%20Trees">Unique Binary Search Trees</a> (Added September 18th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Preorder%20Traversal">Binary Tree Preorder Traversal</a> (Added September 20th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Decode%20String">Decode String</a> (Added September 21st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Right%20Side%20View">Binary Tree Right Side View</a> (Added September 23rd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Validate%20Binary%20Search%20Tree">Validate Binary Search Tree</a> (Added September 24th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reverse%20Linked%20List">Reverse Linked List</a> (Added September 25th 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 71 &nbsp;&nbsp;&nbsp;
+        Count = 79 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
