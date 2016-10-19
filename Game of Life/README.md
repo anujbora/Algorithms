@@ -8,6 +8,7 @@ Any live cell with two or three live neighbors lives on to the next generation.
 Any live cell with more than three live neighbors dies, as if by over-population..
 Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 ```
+t
 
 Write a function to compute the next state (after one update) of the board given its current state.
 

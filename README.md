@@ -85,8 +85,19 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Right%20Side%20View">Binary Tree Right Side View</a> (Added September 23rd 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Validate%20Binary%20Search%20Tree">Validate Binary Search Tree</a> (Added September 24th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reverse%20Linked%20List">Reverse Linked List</a> (Added September 25th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Invert%20Binary%20Tree">Invert Binary Tree</a> (Added September 26th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Moving%20Average%20from%20data%20Stream">Moving Average from data Stream</a> (Added October 7th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Random%20Pick%20Index">Random Pick Index</a> (Added October 8th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Largest%20Number"> Largest Number</a> (Added October 9th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Rotate%20List">Rotate List</a>  (Added October 11th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Reverse%20String%20Recursively">Reverse String Recursively</a>  (Added October 13th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters">Longest Substring with At Most Two Distinct Characters</a>  (Added October 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Longest%20Substring%20with%20At%20Most%20k%20Distinct%20Characters">Longest Substring with At Most k Distinct Characters</a>  (Added October 14th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Find%20Median%20from%20Data%20Stream">Find Median from Data Stream</a>  (Added October 15th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Game%20of%20Life">Game of Life</a>  (Added October 17th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Comma%20Separated%20Price%20String">Comma Separated Price String</a>  (Added October 18th 2016) </li>
     </div>
     <div id="counter" align="right">  
-        Count = 79 &nbsp;&nbsp;&nbsp;
+        Count = 90 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
