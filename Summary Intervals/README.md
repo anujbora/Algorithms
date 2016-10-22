@@ -1,10 +1,9 @@
-Given a collection of intervals, merge all overlapping intervals.
+Given a sorted integer array without duplicates, return the summary of its ranges.
 
 ```
-For example,
+For example, 
 
-Given [1,3],[2,6],[8,10],[15,18],
-return [1,6],[8,10],[15,18].
+Given [0,1,2,4,5,7], return ["0->2","4->5","7"].
 ```
 
-LeetCode : https://leetcode.com/problems/merge-intervals/
+LeetCode : https://leetcode.com/problems/summary-ranges
