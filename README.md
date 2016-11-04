@@ -27,25 +27,25 @@
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Missing%20Ranges/"> Missing Ranges</a> (Added July 17th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Find%20the%20Celebrity/"> Find the Celebrity</a> (Added July 17th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Buy%20Sell%20Stock%20with%20Cooldown"> Buy Sell Stock with Cooldown</a> (Added July 18th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Different%20Ways%20to%20Add%20Parenthesis"> Different Ways to Add Parenthesis</a> (Added July 18th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/blob/master/Different%20Ways%20to%20Add%20Parenthesis"> Different Ways to Add Parenthesis</a> (Added July 18th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Longest%20Consecutive%20Sequence"> Binary Tree Longest Consecutive Sequence</a> (Added July 18th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Upside%20Down"> Binary Tree Upside Down</a> (Added July 19th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Tree%20Upside%20Down"> Binary Tree Upside Down</a> (Added July 19th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Two%20Sum%20II"> Two Sum II</a> (Added July 20th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Plus%20One%20Linked%20List"> Plus One Linked List</a> (Added July 20th 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Surrounded%20Regions"> Surrounded Regions</a> (Added July 21st 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Coin%20Change"> Coin Change</a> (Added July 21st 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Sort%20Transformed%20Array"> Sort Transformed Array</a> (Added July 22nd 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Read%20N%20Characters"> Read N Characters</a> (Added July 22nd 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Populate%20Next%20Right%20Pointers"> Populate Next Right Pointers of a Binary Tree</a> (Added July 23rd 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Wiggle%20Sort"> Wiggle Sort</a> (Added July 24th 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Multiply%20Strings"> Multiply Strings</a> (Added July 24th 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Clone%20Graph"> Clone Graph</a> (Added July 24th 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Decode%20Ways"> Decode Ways</a> (Added July 25th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Plus%20One%20Linked%20List"> Plus One Linked List</a> (Added July 20th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Surrounded%20Regions"> Surrounded Regions</a> (Added July 21st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Coin%20Change"> Coin Change</a> (Added July 21st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Sort%20Transformed%20Array"> Sort Transformed Array</a> (Added July 22nd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Read%20N%20Characters"> Read N Characters</a> (Added July 22nd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Populate%20Next%20Right%20Pointers"> Populate Next Right Pointers of a Binary Tree</a> (Added July 23rd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Wiggle%20Sort"> Wiggle Sort</a> (Added July 24th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Multiply%20Strings"> Multiply Strings</a> (Added July 24th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Clone%20Graph"> Clone Graph</a> (Added July 24th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Decode%20Ways"> Decode Ways</a> (Added July 25th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Maximum%20Size%20Subarray%20Sum%20Equals%20k"> Maximum Size Subarray Sum Equals K</a> (Added July 26th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Divide%20Two%20Integers"> Divide Two Integers</a> (Added July 28th 2016) </li> 
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Kth%20Largest%20Element%20in%20an%20Array"> Kth Largest Element in an Array</a> (Added July 28th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Divide%20Two%20Integers"> Divide Two Integers</a> (Added July 28th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Kth%20Largest%20Element%20in%20an%20Array"> Kth Largest Element in an Array</a> (Added July 28th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Meeting%20Rooms"> Meeting Rooms</a> (Added July 29th 2016) </li>
-       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Meeting%20Rooms%20II"> Meeting Rooms II</a> (Added July 30th 2016) </li> 
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Meeting%20Rooms%20II"> Meeting Rooms II</a> (Added July 30th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Binary%20Search%20Tree%20Iterator"> Binary Search Tree Iterator</a> (Added July 30th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Flatten%20Nested%20List%20Iterator"> Flatten Nested List Iterator</a> (Added July 31st 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Evaluate%20Reverse%20Polish%20Notation"> Evaluate Reverse Polish Notation</a> (Added July 31st 2016) </li>
@@ -96,8 +96,19 @@
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Find%20Median%20from%20Data%20Stream">Find Median from Data Stream</a>  (Added October 15th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Game%20of%20Life">Game of Life</a>  (Added October 17th 2016) </li>
        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Comma%20Separated%20Price%20String">Comma Separated Price String</a>  (Added October 18th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Find%20the%20Duplicate%20Number">Find the Duplicate Number</a>  (Added October 19th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Merge%20Intervals">Merge Intervals</a>  (Added October 20th 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Summary%20Intervals">Summary Intervals</a>  (Added October 21st 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Majority%20Element%20II">Majority Element II</a>  (Added October 22nd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Queue%20Reconstruction%20by%20Height">Queue Reconstruction by Height</a>  (Added October 23rd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Arithmetic%20Slices">Arithmetic Slices</a>  (Added October 23rd 2016) </li>
+       <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Battleships%20in%20a%20Board">Battleships in a Board</a>  (Added October 23rd 2016) </li>
+        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Single%20Number">Single Number</a>  (Added October 24th 2016) </li>
+        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Integer%20Break">Integer Break</a>  (Added October 26th 2016) </li>
+        <li> <a href="https://github.com/anujbora/Algorithms/tree/master/Pow(x%2Cn)">Pow(x,n)</a>  (Added November 2nd 2016) </li>
+        
     </div>
     <div id="counter" align="right">  
-        Count = 90 &nbsp;&nbsp;&nbsp;
+        Count = 100 &nbsp;&nbsp;&nbsp;
     </div>
 </html>
