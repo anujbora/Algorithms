@@ -7,28 +7,29 @@ using namespace std;
  *  Space Complexity = O(1)
  */
 
-int findPeakElement(const vector<int> &num) 
+int findPeakElement(const vector<int> &nums) 
 {
-    int low = 0;
-    int high = num.size() - 1;
-
-    while (low < high - 1) 
+    int low = 0, high = nums.size() - 1;
+    
+    while (low < high) 
     {
-        int mid = low + ((high - low) / 2);
+        int mid = low + (high - low) / 2;
         
-        if (num[mid] > num[mid - 1] && num[mid] > num[mid + 1]) 
+        if (nums[mid] > nums[mid+1] && nums[mid] > nums[mid-1]) 
         {
             return mid;
         }
-        else if (num[mid] > num[mid + 1]) 
+        
+        if (nums[mid] < nums[mid+1]) 
+        {
+            low = mid + 1;
+        }
+        
+        else 
         {
             high = mid - 1;
         }
-        else
-        { 
-            low = mid + 1;
-        }  
+        
     }
-
-    return num[low] > num[high] ? low : high;
+    return low;
 }
